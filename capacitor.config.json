@@ -1,0 +1,6 @@
+{
+  "appId": "com.cinemaster.app",
+  "appName": "Cinemaster",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

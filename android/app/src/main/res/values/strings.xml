@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cinemaster</string>
+    <string name="title_activity_main">cinemaster</string>
+    <string name="package_name">cinemaster.app</string>
+    <string name="custom_url_scheme">cinemaster.app</string>
+</resources>

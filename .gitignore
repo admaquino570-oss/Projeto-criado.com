@@ -1,0 +1,12 @@
+# Dependências e builds
+node_modules
+dist
+android/app/build
+
+# Variáveis de ambiente
+.env
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
